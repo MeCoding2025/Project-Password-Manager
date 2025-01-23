@@ -1,0 +1,90 @@
+@media screen and (min-width: 451px) {
+    .container {
+        min-height: 780px;
+    }
+
+    .container button{
+        font-size: 12px;
+    }
+
+    #logo {
+        font-size: 45px;
+    }
+
+    .container form{
+        padding: 0 40px;
+    }
+
+    .container p{
+        font-size: 14px;
+    }
+
+    #rights {
+        padding-top: 19rem;
+    }
+
+    #passwordRequirements {
+        font-size: 10px;
+    }
+
+    #loginForm {
+        margin-top: 1rem;
+    }
+
+    th, tbody {
+        font-size: 13px;
+    }
+}
+
+
+@media screen and (max-width: 450px) {
+    .container {
+        min-height: 700px;
+    }
+
+
+    .container button{
+        font-size: 9px;
+    }
+
+    .container form{
+        padding: 0 20px;
+    }
+
+    .container p{
+        font-size: 10px;
+    }
+
+    #logo {
+        font-size: 35px;
+    }
+
+    .info {
+        display: none;
+    }
+
+    h2 {
+        font-size: 17px;
+    }
+
+    #rights {
+        padding-top: 10rem;
+    }
+
+    h1 {
+        font-size: 25px;
+    }
+
+    #passwordRequirements {
+        font-size: 8.5px;
+    
+    }
+
+    #loginForm {
+        margin-top: 3.5rem;
+    }
+
+    th, tbody {
+        font-size: 10px;
+    }
+}
